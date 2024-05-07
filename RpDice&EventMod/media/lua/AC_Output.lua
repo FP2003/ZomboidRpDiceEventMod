@@ -3,8 +3,8 @@
 
 function onChatMessage(player, message)
     local lowercaseMessage = message:lower()
-    if message == "!ac" then
-        print("Testing")
+    if lowercaseMessage == "!ac" then
+        player:Say("Hello")
     end
 end
 
