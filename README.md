@@ -15,5 +15,5 @@ An in development mod that will retrieve information from players, such as locat
    - Windows: C:\Users\YourUsername\Zomboid\mods
    - Linux: ~/Zomboid/mods
    - macOS: ~/Library/Application Support/Steam/steamapps/common/ProjectZomboid/mods
-3. Create a new folder inside the mods directory and name it your mod's name.
-4. Inside your mod folder, create a file named `mod.info` and add the following information:
+3. Place your mod file in the mod folder.
+4. Be sure to launch in debug mode, where you should start a singleplayer game and remember to select the mod as you launch.
